@@ -1,0 +1,11 @@
+{
+	"id": "quote-plugin",
+	"name": "Quote Plugin",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Inserts quotes into notes and templates.",
+	"author": "Sam White",
+	"authorUrl": "https://github.com/samanthawhite",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
